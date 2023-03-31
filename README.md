@@ -14,7 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=JMwagunda&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+    I'm Judd Marc.
   </h1>
 </div>
 <div align="center">
@@ -24,14 +25,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Jomo Kenyatta University of Agriculture and Technology.
+- :telescope: I have a keen focus on Front-end Development
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I'm currently working on Backend Development
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: My interests lie in detailed understanding of current web development trends and best practices.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Email&logoColor=white)](wagundamarc@gmail.com)
 
 ---
 
@@ -63,6 +64,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JMwagunda&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Jmwagunda&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JMwagunda&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMwagunda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
