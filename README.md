@@ -4,8 +4,8 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="your-instagram-URL">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -32,7 +32,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: My interests lie in detailed understanding of current web development trends and best practices.
 
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Email&logoColor=white)](wagundamarc@gmail.com)
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wagundamarc@gmail.com)
 
 ---
 
