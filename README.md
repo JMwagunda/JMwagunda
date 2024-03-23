@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmwagunda&label=Profile%20views&color=0e75b6&style=flat" alt="jmwagunda" /> </p>
 
-## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/JMwagunda/JMwagunda/blob/main/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
 
 <br>
@@ -40,6 +40,6 @@
 
 <br>
 
-# 💻 Most used Languages
+# Most used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMwagunda&layout=pie" alt="jmwagunda"/></p>
 
