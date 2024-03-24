@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate with react projects.
 - 📫 How to reach me **wagundamarc@gmail.com**
-- Learning new technologies everyday to become better than my past self.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
