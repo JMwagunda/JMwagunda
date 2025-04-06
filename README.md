@@ -20,9 +20,9 @@
 <br>
 
 - 👋 Hi, I’m Judd Marc.
-- 👀 I’m a Frontend Developer.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate with react projects.
+- 👀 I’m a Frontend Developer and AI Engineering Enthusiast.
+- 🌱 I’m currently learning MERN stack and Machine Learning.
+- 💞️ I’m looking to collaborate with react and Data Science projects.
 - 📫 How to reach me **wagundamarc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
